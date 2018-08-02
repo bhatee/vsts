@@ -1,2 +1,2 @@
 # vsts
-vsts modified with the code
+vsts modified with the code Merged purpose
